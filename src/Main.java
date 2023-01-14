@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
         /*for (char i='a'; i<='e' ; i++){
             for (char j='a';j<='e'; j++)
             {System.out.println(i+""+j);
