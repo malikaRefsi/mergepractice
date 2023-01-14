@@ -3,10 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Hello world I love life life is beautiful");
         /*for (char i='a'; i<='e' ; i++){
             for (char j='a';j<='e'; j++)
             {System.out.println(i+""+j);
                 }
+
         };
         int a[]=new int[10];
         int k;
